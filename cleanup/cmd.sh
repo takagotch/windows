@@ -5,6 +5,7 @@ win R/
 ../diskpart 
 diskmgmt.msc
 
+GUI Explorer/PC/管理(crtl G)/ディスクの管理
 tools Easeus
 
 cmd
