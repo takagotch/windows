@@ -6,7 +6,9 @@ win R/
 diskmgmt.msc
 
 GUI Explorer/PC/管理(crtl G)/ディスクの管理
+
 tools Easeus
+https://jp.easeus.com/backup-software/free.html
 
 cmd
 */
