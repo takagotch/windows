@@ -26,7 +26,7 @@ DELETE: Win + F4
 ```
 CREATE: Ctrl + n
 Win + LEFT/RIGHT/UP/DOWN
-DELETE: Ctrl + F4
+DELETE: Win + Ctrl + F4
 
 ```
 
